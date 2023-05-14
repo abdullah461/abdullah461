@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate python developer from Nigeria</h3>
+<h3 align="center">A passionate python developer from Nigeria, with immense experience on data analysis, web design and development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah461&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah461" /> </p>
 
