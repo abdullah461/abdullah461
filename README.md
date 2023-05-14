@@ -17,8 +17,6 @@
 
 - ⚡ Fun fact **i am funny**
 
-<img align="right" alt="data" width="400" src="https://cdn.dribbble.com/users/281525/screenshots/1768570/media/2669447cca1fb2702039f59dcd9717f3.gif">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/abdullah461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdullah461" height="30" width="40" /></a>
