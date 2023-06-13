@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah461&show_icons=true&locale=en&layout=compact" alt="abdullah461" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah461&show_icons=true&locale=en" alt="abdullah461" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah461&" alt="abdullah461" /></p>
