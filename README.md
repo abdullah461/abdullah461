@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abu_______bakar" target="blank"><img src="https://img.shields.io/twitter/follow/abu_______bakar?logo=twitter&style=for-the-badge" alt="abu_______bakar" /></a> </p>
 
-- 🔭 I’m currently working on **mymenu**
+- 🔭 I’m currently working on **open source**
 
 - 🌱 I’m currently learning **Flask**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **AbdullahAbubakar461@gmail.com**
 
-- ⚡ Fun fact **i am funny**
+- ⚡ Fun fact **i am cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
