@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **open source**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Flask and machine learning**
 
 - 💬 Ask me about **python**
 
