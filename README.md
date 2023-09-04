@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">I'm into Data Analytics</h3>
+<h3 align="center">I'm into Data Analytics & web development ⚡ </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah461&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah461" /> </p>
 
